@@ -1,0 +1,31 @@
+{
+    "author": "robert.ogflitney@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "app-message-issue-minimal-sample",
+    "pebble": {
+        "displayName": "app-message-issue-minimal-sample",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "PING",
+            "PONG"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "4acaa658-e1f7-4b1c-8a91-82a90f03d898",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
